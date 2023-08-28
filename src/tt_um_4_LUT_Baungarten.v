@@ -25,7 +25,7 @@ assign i_LUT = uio_in[3:0];
 assign uo_out[0] = o_Data;
 	
 assign uo_out[7:1] = 7'b111_1111;
-assign uio_out[7:4] = 4'b1111;
+	assign uio_out[7:1] = 7'b111_1111;
 assign uio_oe[7:4] = 4'b1111;
 	
 reg [15:0] r_data;
