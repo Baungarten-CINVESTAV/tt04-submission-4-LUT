@@ -1,4 +1,4 @@
-module _4_LUT_Baungarten(
+module tt_um_4_LUT_Baungarten(
 input [3:0] i_addr_load_data,
 input i_Data,
 input [3:0] i_LUT,
