@@ -30,6 +30,10 @@ The testbench for the CLB serves as a crucial validation tool, illustrating both
 Truth Table of the 74LS48 BCD-to-7-Segment Decoder
 ![Screenshot from 2023-08-28 20-30-57](https://github.com/Baungarten-CINVESTAV/tt04-submission-4-LUT/assets/101527680/3e5046b9-e5b9-4080-8237-d1217507d296)
 
+![image](https://github.com/Baungarten-CINVESTAV/tt04-submission-4-LUT/assets/101527680/5fadc881-1c15-43a3-8fd8-fb07d4f527d3)
+![image](https://github.com/Baungarten-CINVESTAV/tt04-submission-4-LUT/assets/101527680/0a17bd82-c022-40c1-a5a1-5831f6ec29cb)
+
+
 Testbench Illustrating CLB Programming and 74LS48 Emulation
 
 
