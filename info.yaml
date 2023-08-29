@@ -7,6 +7,7 @@ project:
 # Source files must be in ./src and you must list each source file separately
   source_files:        
     - tt_um_4_LUT_Baungarten.v #must start with tt_um_NAME      //
+    - Single_4LUT.v
   top_module:  "tt_um_4_LUT_Baungarten"      # Put the name of your top module here, must start with "tt_um_". Make it unique by including your github username
 
 # How many tiles your design occupies? A single tile is about 167x108 uM.
@@ -21,9 +22,9 @@ yaml_version: 4
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
   author:       "Emilio Baungarten"      # Your name
-  title:        "4-LUT"      # Project title
+  title:        "LFMPDM (Lightning Fast Matrix Programmable Design Module)"      # Project title
   language:     "Verilog" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "OpenFPGA architecture 4-input LUTs"      # Short description of what your project does
+  description:  "8xLUTs 4-input"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
