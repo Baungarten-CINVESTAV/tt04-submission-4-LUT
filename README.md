@@ -34,3 +34,6 @@ After that, the action uses the open source ASIC tool called [OpenLane](https://
 
 - Submit your design to the next shuttle [on the website](https://tinytapeout.com/#submit-your-design), the closing date is 8th September.
 - Share your GDS on Twitter, tag it [#tinytapeout](https://twitter.com/hashtag/tinytapeout?src=hashtag_click) and [link me](https://twitter.com/matthewvenn)!
+
+## Lut test execution
+![Screenshot from 2023-08-28 20-30-57](https://github.com/Baungarten-CINVESTAV/tt04-submission-4-LUT/assets/101527680/3e5046b9-e5b9-4080-8237-d1217507d296)
